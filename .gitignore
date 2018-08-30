@@ -144,7 +144,6 @@ StyleCopReport.xml
 *.tlh
 *.tmp
 *.tmp_proj
-*.log
 *.vspscc
 *.vssscc
 .builds
@@ -436,8 +435,6 @@ cmake-build-*/
 # File-based project format
 *.iws
 
-# IntelliJ
-out/
 
 # mpeltonen/sbt-idea plugin
 .idea_modules/
@@ -456,12 +453,6 @@ fabric.properties
 
 # Editor-based Rest Client
 .idea/httpRequests
-### Java template
-# Compiled class file
-*.class
-
-# Log file
-*.log
 
 # BlueJ files
 *.ctxt
